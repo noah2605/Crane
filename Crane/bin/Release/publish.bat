@@ -1,1 +1,0 @@
-copy Crane.exe "crane 2.ned"

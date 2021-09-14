@@ -1,8 +1,8 @@
-./packages
-./.vs
-./Crane/bin
-./Crane/obj
-./Crane/Properties
+packages/
+.vs/
+bin/
+obj/
+Properties/
 *.config
 *.pfx
 *.xml
