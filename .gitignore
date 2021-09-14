@@ -1,2 +1,9 @@
 ./packages
 ./.vs
+./Crane/bin
+./Crane/obj
+./Crane/Properties
+*.config
+*.pfx
+*.xml
+*.xsd
