@@ -12,7 +12,7 @@ namespace Crane
 
         private void InitializeClient()
         {
-            client = new DiscordRpcClient("828022850819719218");
+            client = new DiscordRpcClient("id here");
 
             client.Logger = new ConsoleLogger() { Level = LogLevel.Warning };
 
